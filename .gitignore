@@ -128,9 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Don't sync CSV or XLSX files
+# Don't sync CSV or XLSX files or images
 *.csv
 *.xlsx
+*.jpg
+*.png
 
 # Ignore temporary files produced my MacOS (.DS_Store)
 .DS_Store
