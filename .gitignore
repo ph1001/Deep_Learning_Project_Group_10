@@ -138,3 +138,7 @@ dmypy.json
 
 # Ignore temporary Word files
 *~$*
+
+# Ignore the Readme files of the traffic sign dataset
+Readme-Images-Final-test.txt
+Readme.txt
