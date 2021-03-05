@@ -131,8 +131,7 @@ dmypy.json
 # Don't sync CSV or XLSX files or images
 *.csv
 *.xlsx
-*.jpg
-*.png
+*.ppm
 
 # Ignore temporary files produced my MacOS (.DS_Store)
 .DS_Store
