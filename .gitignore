@@ -128,10 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Don't sync CSV or XLSX files or images
+# Don't sync CSV files, XLSX files, images and zip files
 *.csv
 *.xlsx
 *.ppm
+*.zip
 
 # Ignore temporary files produced my MacOS (.DS_Store)
 .DS_Store
@@ -142,3 +143,4 @@ dmypy.json
 # Ignore the Readme files of the traffic sign dataset
 Readme-Images-Final-test.txt
 Readme.txt
+Readme-Images.txt
