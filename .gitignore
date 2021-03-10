@@ -128,9 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Don't sync CSV files, XLSX files, images and zip files
+# Don't sync CSV files, images and zip files
 *.csv
-*.xlsx
 *.ppm
 *.zip
 *.jpg
