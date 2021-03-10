@@ -133,6 +133,7 @@ dmypy.json
 *.xlsx
 *.ppm
 *.zip
+*.jpg
 
 # Ignore temporary files produced my MacOS (.DS_Store)
 .DS_Store
