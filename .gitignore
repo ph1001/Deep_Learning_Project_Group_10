@@ -145,5 +145,5 @@ Readme-Images-Final-test.txt
 Readme.txt
 Readme-Images.txt
 
-# Ignore certain saved models (that are too large)
+# Ignore saved models (that are too large)
 model_all_data_5_epochs
