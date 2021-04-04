@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Don't sync CSV files, images and zip files
+# Don't sync images and zip files
 #*.csv
 *.ppm
 *.zip
@@ -141,9 +141,9 @@ dmypy.json
 *~$*
 
 # Ignore the Readme files of the traffic sign dataset
-Readme-Images-Final-test.txt
-Readme.txt
-Readme-Images.txt
+#Readme-Images-Final-test.txt
+#Readme.txt
+#Readme-Images.txt
 
 # Ignore saved models (they are too large for Github)
 model_*

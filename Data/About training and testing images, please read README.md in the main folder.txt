@@ -1,0 +1,1 @@
+About training and testing images, please read README.md in the main folder
