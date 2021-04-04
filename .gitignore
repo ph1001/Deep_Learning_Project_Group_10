@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # Don't sync CSV files, images and zip files
-*.csv
+#*.csv
 *.ppm
 *.zip
 #*.jpg
