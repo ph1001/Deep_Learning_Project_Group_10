@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Don't sync images and zip files
+# Don't sync ppm image files (would be way too many) and zip files
 #*.csv
 *.ppm
 *.zip
