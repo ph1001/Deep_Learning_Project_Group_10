@@ -1,0 +1,1 @@
+The images are copied into these folder by running one of the preprocessing scripts
